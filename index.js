@@ -50,7 +50,8 @@ Do the following:
 
 
 /*
-Task 1d - Multiply
+Task 1d - Multiplyasd;/fklikDKF';JL
+
  
 Do the following:   
    1. Invoke the multiply function below and pass it two numbers
